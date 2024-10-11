@@ -6,7 +6,7 @@ HTML5: Provides the structure and semantic elements of the webpage.
 CSS3: Used for the design, layout, and responsiveness.
 
 
-[CLICK HERE] (https://dicordbyrose.netlify.app/)
+[CLICK HERE](https://dicordbyrose.netlify.app/)
 
 ![image](https://github.com/user-attachments/assets/788bbfb8-19c5-47ed-87bc-2bb322376d20)
 ![image](https://github.com/user-attachments/assets/73b2b8dd-f996-4066-9783-569506b84121)
